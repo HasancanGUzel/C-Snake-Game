@@ -1,0 +1,10 @@
+C:\Users\akteke\source\repos\BBP_NO_YilanOyunu\BBP_NO_YilanOyunu\bin\Debug\BBP_NO_YilanOyunu.exe.config
+C:\Users\akteke\source\repos\BBP_NO_YilanOyunu\BBP_NO_YilanOyunu\bin\Debug\BBP_NO_YilanOyunu.exe
+C:\Users\akteke\source\repos\BBP_NO_YilanOyunu\BBP_NO_YilanOyunu\bin\Debug\BBP_NO_YilanOyunu.pdb
+C:\Users\akteke\source\repos\BBP_NO_YilanOyunu\BBP_NO_YilanOyunu\obj\Debug\BBP_NO_YilanOyunu.csprojAssemblyReference.cache
+C:\Users\akteke\source\repos\BBP_NO_YilanOyunu\BBP_NO_YilanOyunu\obj\Debug\BBP_NO_YilanOyunu.Form1.resources
+C:\Users\akteke\source\repos\BBP_NO_YilanOyunu\BBP_NO_YilanOyunu\obj\Debug\BBP_NO_YilanOyunu.Properties.Resources.resources
+C:\Users\akteke\source\repos\BBP_NO_YilanOyunu\BBP_NO_YilanOyunu\obj\Debug\BBP_NO_YilanOyunu.csproj.GenerateResource.cache
+C:\Users\akteke\source\repos\BBP_NO_YilanOyunu\BBP_NO_YilanOyunu\obj\Debug\BBP_NO_YilanOyunu.csproj.CoreCompileInputs.cache
+C:\Users\akteke\source\repos\BBP_NO_YilanOyunu\BBP_NO_YilanOyunu\obj\Debug\BBP_NO_YilanOyunu.exe
+C:\Users\akteke\source\repos\BBP_NO_YilanOyunu\BBP_NO_YilanOyunu\obj\Debug\BBP_NO_YilanOyunu.pdb
